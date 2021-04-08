@@ -1,6 +1,6 @@
-Otro famoso operador lógico es el `or` que sirve para realizar disyunciones lógicas. El "O lógico" tiene sus diferencias con el `and`, ¿te animás a descubrirlas? :hugging:
+Otro famoso operador lógico es el `or` que sirve para realizar disyunciones lógicas. El "O lógico" tiene sus diferencias con el `and`, ¿te animas a descubrirlas? :hugging:
 
-> Hacé las siguientes pruebas en la consola:
+> Haz las siguientes pruebas en la consola:
 >
 ``` python
 ム str.lower("HOLA") == "hola" or str.lower("adiós") == "adiós"
