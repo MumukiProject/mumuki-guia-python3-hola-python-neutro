@@ -8,7 +8,7 @@ Para este tipo de problemas tenemos los _strings_, también llamados _cadenas de
 * `'El hierro nos ayuda a jugar'`
 * `"¡Hola Miguel!"`
 
-Como se observa, todos los strings están encerrados entre comillas simples o dobles. ¡Da igual usar unas u otras! Pero sé consistente: por ejemplo, si abriste comilla doble, tienes que cerrar comilla doble. Además, un string puede estar formado por (casi) cualquier carácter: letras, números, símbolos, espacios, etc.
+Como se observa, todos los strings están encerrados entre comillas simples o dobles. ¡Da igual usar unas u otras! Pero sé consistente: por ejemplo, si abres comilla doble, tienes que cerrar comilla doble. Además, un string puede estar formado por (casi) cualquier carácter: letras, números, símbolos, espacios, etc.
 
 ¿Y qué podemos hacer con los strings? Por ejemplo, compararlos, como a cualquier otro valor:
 
