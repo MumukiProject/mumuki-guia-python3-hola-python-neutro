@@ -7,4 +7,4 @@ Muchas veces nos va a interesar saber el largo de un string, o en otras palabras
 ム len("Buenos días a todo el mundo")
 ム len('¿No tenés 5 minutos?')
 ```
-> ¿Te animás a pensar qué va a devolver cada caso antes de probarlo?
+> ¿Te animas a pensar qué va a devolver cada caso antes de probarlo?
