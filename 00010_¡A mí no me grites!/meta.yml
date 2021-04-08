@@ -11,4 +11,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: "'NECESITO MAYÚSCULAS MÁS GRANDES'"
-name: "¡A mí no me grités!"
+name: "¡A mí no me grites!"
