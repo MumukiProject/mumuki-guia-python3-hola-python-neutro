@@ -1,6 +1,6 @@
 Pero los operadores no solo nos sirven para obtener números a partir de otros, ¡también podemos compararlos! :muscle:
 
-> Probá lo siguiente en la consola:
+> Prueba lo siguiente en la consola:
 >
 ``` python
 ム 10 > 9
